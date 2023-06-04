@@ -1,0 +1,23 @@
+.button {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-right: 8px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.good {
+  background-color: green;
+  color: white;
+}
+
+.neutral {
+  background-color: yellow;
+  color: grey;
+}
+
+.bad {
+  background-color: red;
+  color: white;
+}
